@@ -23,3 +23,6 @@ Beijing PM2.5 dataset (2010–2014)
 - MAE
 
 ## Project Structure
+## 🚀 Live Demo
+Try the deployed app here:  
+https://air-quality-prediction-saq4rjlebt3jrghtpbs43m.streamlit.app/
